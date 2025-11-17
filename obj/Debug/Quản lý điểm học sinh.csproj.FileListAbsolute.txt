@@ -1,0 +1,19 @@
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\bin\Debug\Quản lý điểm học sinh.exe.config
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.csprojResolveAssemblyReference.cache
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản_lý_điểm_học_sinh.Form1.resources
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản_lý_điểm_học_sinh.Properties.Resources.resources
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.csproj.GenerateResource.Cache
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\bin\Debug\Quản lý điểm học sinh.exe
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\bin\Debug\Quản lý điểm học sinh.pdb
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.exe
+F:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.pdb
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\bin\Debug\Quản lý điểm học sinh.exe.config
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\bin\Debug\Quản lý điểm học sinh.exe
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\bin\Debug\Quản lý điểm học sinh.pdb
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.csproj.AssemblyReference.cache
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản_lý_điểm_học_sinh.Form1.resources
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản_lý_điểm_học_sinh.Properties.Resources.resources
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.csproj.GenerateResource.cache
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.csproj.CoreCompileInputs.cache
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.exe
+E:\Big pack\HuuTai50C\C\Quản lý điểm học sinh\Quản lý điểm học sinh\obj\Debug\Quản lý điểm học sinh.pdb
